@@ -54,11 +54,11 @@ lang: ftd
 -- ds.markdown: 
 
 We don't recommend creating custom types. We recommend to use 
-our [opensans-font-typography](https://fastn-community.github.io/opensans-font-typography)
+our [opensans-typography](https://fastn-community.github.io/opensans-typography)
 
-If you're using [opensans-font-typography](https://fastn-community.github.io/opensans-font-typography) 
+If you're using [opensans-typography](https://fastn-community.github.io/opensans-typography) 
 and still your designer has introduced new font size which are not included or 
-part of our [opensans-font-typography](https://fastn-community.github.io/opensans-font-typography) 
+part of our [opensans-typography](https://fastn-community.github.io/opensans-typography) 
 then only define custom types. 
 
 We hope you shouldn't need to define a custom type.
