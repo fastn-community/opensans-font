@@ -15,7 +15,7 @@ Designers: Eduardo Tunni, Principal design
 
 [Read the docs and demo](https://fastn-community.github.io/opensans-font/).
 
-Also, check [arya-font-typography](https://fastn-community.github.io/opensans-typography/)
+Also, check [opensans-typography](https://fastn-community.github.io/opensans-typography/)
 
 ## 👀 Want to learn more?
 
@@ -24,5 +24,5 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since Arya Font is under [Open Font Licence](https://fonts.google.com/specimen/Open+Sans/about), this fastn wrapper is also
+Since Open Sans Font is under [Open Font Licence](https://fonts.google.com/specimen/Open+Sans/about), this fastn wrapper is also
 under [Open Font License](LICENSE).
